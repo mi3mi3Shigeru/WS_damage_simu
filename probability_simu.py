@@ -1,6 +1,7 @@
 import random as rd
 import statistics
-
+#aaaaaaa
+#aaaafffff
 #####
 #遊び方
 # card_A と card_B に検証したい枚数を入れる。
